@@ -92,6 +92,15 @@ The second part is about to dicuss the pros and cons of every decision and the f
 
 Also all the voting results and comments would be locked in the blockchain so noone can cheat about it.
 
+Our plans and ambitions
+
+
+* Finish the integration with the app and telegram
+* Implement text to voice bot for grannies (not internet/mobile users)
+* Test platform in my settlement, get feedback from friendly neighbors
+* Partnership with developer companies
+* Global platform for referendums and voiting
+
 
 
 
