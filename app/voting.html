@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello from Voting DApp</title>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+</head>
+<body class="container">
+  <h1>Невозможно припарковаться во дворе, все места занимают банкиры из соседнего офиса</h1>
+  <div class="table-responsive">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Options</th>
+          <th>Vote</th>
+          <th>Score</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Шлагбаум с брелоком [the barrier with a keychain]</td>
+          <td>
+            <a href="#" onclick="voteForOption('option1')" class="btn btn-primary">Vote</a>
+          </td>
+          <td id="option-1"></td>
+        </tr>
+        <tr>
+          <td>Шлагбаум с охранником [the barrier with a security guy]</td>
+          <td>
+            <a href="#" onclick="voteForOption('option2')" class="btn btn-primary">Vote</a>
+            </td>
+          <td id="option-2"></td>
+        </tr>
+        <tr>
+          <td>Отстреливать банкиров [open a hunting for bank persons]</td>
+          <td>
+            <a href="#" onclick="voteForOption('option3')" class="btn btn-primary">Vote</a>
+          </td>
+          <td id="option-3"></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p>voting id (smart contract id): &nbsp; 0x1d7da5e06b9caa56a1d3f5886890f08b02a887b6</p>
+    <p>your id (wallet id): &nbsp; 0x327042e2a04f4793e10368a44eb7d28ec4a705e9</p>
+  </div>
+</body>
+<script src="https://cdn.rawgit.com/ethereum/web3.js/develop/dist/web3.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<link href='./stylesheets/app.css' rel='stylesheet' type='text/css'>
+  <script src="./javascripts/index.js"></script>
+  <!-- <script src="./javascripts/app.js"></script> -->
+</html>
