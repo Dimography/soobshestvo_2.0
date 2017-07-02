@@ -40,13 +40,18 @@ Co-founder: https://eat-fit.ru/
 
 PM at: http://www.smw.newsochi.com/ (cash free zone based on NFC chips and android app for Sberbank music festival in 2016)
 
-Evgeniy Kotc
+
+
+
+Evgeniy Kots https://www.facebook.com/enik.gregorovich
 
 role: back-end developer
 
 https://mydreams.club/
 
 http://platon.ru
+
+
 
 
 Michael Malishev https://www.facebook.com/mishamoix
@@ -58,6 +63,8 @@ https://www.isolux.ru/
 https://www.amocrm.ru/
 
 
+
+
 ALex Tim https://www.facebook.com/nobodyroo
 
 role: designer
@@ -65,3 +72,35 @@ role: designer
 British high school of design
 
 https://www.dotorg.ru/
+
+
+How we came up with the idea:
+
+Last two years I live and work in ma parents country house. There are some problems with electricity and the road that gets worther and worther. So I tried to do something about it on a global meetig: wrote a text with my suggestions and gave it to everyone on the meeting, but it made no sence. Even if I managed to convince everybody, there was only about a forth part of total members of community, so I should call/e-mail to another 150 persons and convince them. I understood that it is possible to make it ones ot twice, but it is not the read desicion making system. So I read alot about how people solve it abroad, spoke with experts from housebuilding companies and formed the idea we are realising now.
+
+
+How is it innovative?
+
+The innovation is in deviding the process of decision making. I read about in in the book about inventions.
+
+
+During the first part the group of inventors suggests any decision for the problem that came to their minds, without criticising or thinking in detail if it will work really good. So the real creative process is not disturbed by any "this will not work!" and so on.
+
+
+The second part is about to dicuss the pros and cons of every decision and the final voting for the way we gonna solve this issue.
+
+
+Also all the voting results and comments would be locked in the blockchain so noone can cheat about it.
+
+
+
+
+What tools/platforms do we use.
+
+nodejs + web3, mist, metamask
+
+
+What was the biggest obstacle that our team overcame?
+
+It is our fist project with blockchain, we had no experience in js.
+So we understood briefly about blockchain, choose the platform and the way we gonna realise it.
